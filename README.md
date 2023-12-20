@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Android
+# tic-tac-toe -android app
 
 *Tic-Tac-Toe-Android* è un'applicazione Android che ti permette di giocare al classico gioco del Tris contro un avversario controllato dall'intelligenza artificiale. Il progetto fornisce un'interfaccia utente semplice e intuitiva in cui gli utenti possono interagire con la scacchiera di gioco e visualizzare i punteggi del giocatore e del computer.
 
